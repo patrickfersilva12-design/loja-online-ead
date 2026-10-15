@@ -7,7 +7,7 @@ function calcularTotal(itens) {
 
    for (let i = 0; i < itens.length; i++) {
 
-       total += itens[i].preco * 1.1
+       total += itens[i].preco
 
    }
 
